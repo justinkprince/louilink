@@ -5,8 +5,6 @@ if ( is_category() && 'on' === et_get_option( 'nexus_category_featured', 'on' ) 
 	get_template_part( 'includes/featured' );
 ?>
 
-<?php // git test ?>
-
 <div class="page-wrap container">
 	<div id="main-content">
 		<div class="main-content-wrap clearfix">
