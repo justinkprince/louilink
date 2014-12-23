@@ -1,0 +1,36 @@
+div.songkick-events .profile-title, .pagination {
+    margin-top: 8px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+div.songkick-events .powered-by {
+    margin: 0px;
+}
+
+div.songkick-events .powered-by img {
+    margin: 0px;
+    border: 0px;
+}
+
+div.songkick-events .event-name {
+    display: block;
+    margin-left: 44px;
+}
+
+div.songkick-events ul {
+    border-bottom: 1px solid #CCCCCC;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-left: 0px;
+    list-style: none outside none;
+}
+
+div.songkick-events li {
+    margin-bottom: 10px;
+}
+
+div.songkick-events .pagination {
+    width: auto;
+}
+

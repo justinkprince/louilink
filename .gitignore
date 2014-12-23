@@ -29,7 +29,7 @@
 # -----------------------------------------------------------------
  
 # ignore everything in the root except the "wp-content" directory.
-/*
+web/*
 !web/wp-content/
  
 # ignore all files starting with .
