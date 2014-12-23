@@ -1,1 +1,0 @@
-[30-May-2013 05:36:20] PHP Fatal error:  Call to undefined function  add_action() in /home/louilink/public_html/wp-content/plugins/hello.php on line 60

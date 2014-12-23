@@ -1,0 +1,14 @@
+{
+    "name": "louilink/louilink",
+    "description": "Louilink site project.",
+    "authors": [
+        {
+            "name": "Justin Prince",
+            "email": "justinkprince@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "silex/silex": "~1.2"
+    }
+}
